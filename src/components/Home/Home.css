@@ -1,0 +1,8 @@
+.Header{
+    width: 100%;
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-image: linear-gradient(to top,#1e353b 0%,rgba(92, 7, 7, 0) 100%), url("../../assets/images/Header.jpg");
+
+}

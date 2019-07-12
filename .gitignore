@@ -50,3 +50,16 @@ yarn-error.log*
 # snapshots
 src/**/**/__snapshots__/*.test.tsx.snap
 __snapshots__/
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
+# End of https://www.gitignore.io/api/node,macos,visualstudiocode

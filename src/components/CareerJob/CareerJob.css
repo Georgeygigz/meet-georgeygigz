@@ -1,0 +1,26 @@
+.career-objectives-job {
+  width: 35%;
+  height: 290px;
+  background-color: #ffffff;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  
+
+  color: #000;
+  margin: 20px;
+  text-align: center;
+  margin-top: 10%;
+}
+.facebook {
+  color: #914719;
+  font-size: 1500px;
+}
+
+.career-objectives-job h5{
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+}
+.career-objectives-job img{
+  height: 80px;
+  width: 80px;
+}

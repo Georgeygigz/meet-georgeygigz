@@ -1,0 +1,11 @@
+.profile {
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  background-position: -150px -155px;
+  background-image: url("../../assets/images/george.jpg");
+  margin-top: 200px;
+  margin-left: 100px;
+  position: relative;
+}

@@ -1,0 +1,9 @@
+.quotes{
+    width: 100%;
+    height: 10vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-color: #111c1f;
+    color: #ffffff;
+    align-content: center;
+}
