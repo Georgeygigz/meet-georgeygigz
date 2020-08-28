@@ -1,7 +1,0 @@
-.meet-george-image{
-    width: 50%;
-    height: 400px;
-    background-repeat: no-repeat;
-    background-image: linear-gradient(to bottom,#020202  0%,rgba(92, 7, 7, 0) 100%), url(../../assets/images/meet-george.jpg);
-    background-size: 500px;
-}
