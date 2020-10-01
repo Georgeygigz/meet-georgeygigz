@@ -1,0 +1,29 @@
+{
+  "habitats": [
+    {
+      "description": "Two bedroom house with spacious rooms",
+      "id": 1,
+      "image": "https://res.cloudinary.com/mutti/image/upload/v1601928291/julia-androshchuk-QPKyEU_oEFI-unsplash_b6pppo.jpg",
+      "location": "Rossa apartments thika road"
+    },
+    {
+      "description": "Two bedroom house with spacious rooms",
+      "id": 2,
+      "image": "https://res.cloudinary.com/mutti/image/upload/v1601928282/vruyr-martirosyan-tkR3tUJUDt4-unsplash_hrt4gz.jpg",
+      "location": "Rossa apartments thika road"
+    },
+    {
+      "description": "Two bedroom house wi",
+      "id": 3,
+      "image": "https://res.cloudinary.com/mutti/image/upload/v1601928240/alexander-sinn-rOxuWWhLxXU-unsplash_g488uj.jpg",
+      "location": "Rossa apartments thika road"
+    },
+    {
+      "description": "Two bedroom house with spacious rooms",
+      "id": 4,
+      "image": "https://res.cloudinary.com/mutti/image/upload/v1601928169/tom-thain-_0URG2ZegMc-unsplash_quy9gd.jpg",
+      "location": "Rossa apartments thika road"
+    }
+
+  ]
+}
